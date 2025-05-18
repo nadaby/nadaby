@@ -47,11 +47,11 @@
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=nadaby&theme=react&show_icons=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadaby&theme=react&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadaby&theme=react&layout=compact&langs_count=6" />
 </p>
 
 ------
 
 [nadaby](https://github.com/nadaby)
 
-Last Edited on: 25/03/2025
+Last Edited on: 17/05/2025
